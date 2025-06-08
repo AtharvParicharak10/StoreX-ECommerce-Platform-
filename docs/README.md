@@ -1,5 +1,5 @@
 
-# Java Microservices eCommerce Platform Documentation
+# StoreX ECommerce Platform Documentation
 
 Welcome to the documentation for the **Microservices-based eCommerce Platform** built using Spring Boot. This platform is designed to be modular, scalable, and efficient, with a clear separation of concerns between services.
 
